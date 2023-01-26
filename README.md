@@ -10,3 +10,6 @@ Binary Grep - searches for a binary pattern in one or more input files with diff
 FIFO - Built a spinlock "library" based on provided atomic assembly language helper code. Then built
 a condition variables library, making use of the spinlock library. Next, built a FIFO library, where spinlocks and condition variables are used.
 Finally, built an "acid testing" environment to test the everything, from the standpoint of a user of the FIFO library.
+
+Strace with Assembly - Uses the strace UNIX command to analyze the system calls of a Hello World C program. Checks errors and functionality of the system calls
+involved.
