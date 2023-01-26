@@ -4,3 +4,5 @@ Fake Shell - UNIX shell which is capable of launching one program at a time, wit
 and resource usage statistics. Uses test programs to show functionality
 
 Piping -  a program that copies infiles using mutliple pipes rather than standard output to find patterns and handle signals
+
+Binary Grep - searches for a binary pattern in one or more input files with different options
